@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+streamlit
+requests
+pandas
+matplotlib
